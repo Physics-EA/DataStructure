@@ -1,0 +1,7 @@
+D:\Desktop\UnityProject\DataStructure_Siki\数据结构\002-栈\obj\Debug\002-栈.csprojAssemblyReference.cache
+D:\Desktop\UnityProject\DataStructure_Siki\数据结构\002-栈\obj\Debug\002-栈.csproj.CoreCompileInputs.cache
+D:\Desktop\UnityProject\DataStructure_Siki\数据结构\002-栈\bin\Debug\002-栈.exe.config
+D:\Desktop\UnityProject\DataStructure_Siki\数据结构\002-栈\bin\Debug\002-栈.exe
+D:\Desktop\UnityProject\DataStructure_Siki\数据结构\002-栈\bin\Debug\002-栈.pdb
+D:\Desktop\UnityProject\DataStructure_Siki\数据结构\002-栈\obj\Debug\002-栈.exe
+D:\Desktop\UnityProject\DataStructure_Siki\数据结构\002-栈\obj\Debug\002-栈.pdb

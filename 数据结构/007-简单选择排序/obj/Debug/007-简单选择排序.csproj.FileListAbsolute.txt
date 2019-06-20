@@ -1,0 +1,7 @@
+D:\Desktop\UnityProject\DataStructure_Siki\数据结构\007-简单选择排序\bin\Debug\007-简单选择排序.exe.config
+D:\Desktop\UnityProject\DataStructure_Siki\数据结构\007-简单选择排序\bin\Debug\007-简单选择排序.exe
+D:\Desktop\UnityProject\DataStructure_Siki\数据结构\007-简单选择排序\bin\Debug\007-简单选择排序.pdb
+D:\Desktop\UnityProject\DataStructure_Siki\数据结构\007-简单选择排序\obj\Debug\007-简单选择排序.csproj.CoreCompileInputs.cache
+D:\Desktop\UnityProject\DataStructure_Siki\数据结构\007-简单选择排序\obj\Debug\007-简单选择排序.exe
+D:\Desktop\UnityProject\DataStructure_Siki\数据结构\007-简单选择排序\obj\Debug\007-简单选择排序.pdb
+D:\Desktop\UnityProject\DataStructure_Siki\数据结构\007-简单选择排序\obj\Debug\007-简单选择排序.csprojAssemblyReference.cache

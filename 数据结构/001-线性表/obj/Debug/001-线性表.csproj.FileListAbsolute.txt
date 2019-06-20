@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\数据结构\001-线性表\obj\Debug\001-线性表.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\数据结构\001-线性表\obj\Debug\001-线性表.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\数据结构\001-线性表\bin\Debug\001-线性表.exe.config
+C:\Users\Administrator\source\repos\数据结构\001-线性表\bin\Debug\001-线性表.exe
+C:\Users\Administrator\source\repos\数据结构\001-线性表\bin\Debug\001-线性表.pdb
+C:\Users\Administrator\source\repos\数据结构\001-线性表\obj\Debug\001-线性表.exe
+C:\Users\Administrator\source\repos\数据结构\001-线性表\obj\Debug\001-线性表.pdb
+D:\Desktop\UnityProject\DataStructure_Siki\数据结构\001-线性表\obj\Debug\001-线性表.csprojAssemblyReference.cache
+D:\Desktop\UnityProject\DataStructure_Siki\数据结构\001-线性表\obj\Debug\001-线性表.csproj.CoreCompileInputs.cache
+D:\Desktop\UnityProject\DataStructure_Siki\数据结构\001-线性表\obj\Debug\001-线性表.exe
+D:\Desktop\UnityProject\DataStructure_Siki\数据结构\001-线性表\obj\Debug\001-线性表.pdb
+D:\Desktop\UnityProject\DataStructure_Siki\数据结构\001-线性表\bin\Debug\001-线性表.exe.config
+D:\Desktop\UnityProject\DataStructure_Siki\数据结构\001-线性表\bin\Debug\001-线性表.exe
+D:\Desktop\UnityProject\DataStructure_Siki\数据结构\001-线性表\bin\Debug\001-线性表.pdb
